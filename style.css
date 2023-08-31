@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  /*   height: 100%; */
+  background-color: black;
+  /*! overflow: hidden; */
+}
+
+h1 {
+  margin: revert;
+}
+
+body {
+  color: white;
+  align-items: center;
+  text-align: center;
+}
+
+article,
+svg {
+  /*   width: 100%; */
+  max-width: 400px;
+}
+
+button {
+  background-color: black;
+  padding: 2rem 1rem;
+  border: none;
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+.mobile-menu-active {
+  /* background-color: red; */
+}
